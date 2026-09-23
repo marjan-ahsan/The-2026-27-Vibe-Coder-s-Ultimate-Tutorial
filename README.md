@@ -1,4 +1,4 @@
-# The-2026-27-Vibe-Coder-s-Ultimate-Tutorial
+# The 2026-27 Vibe Coder’s Playbook: Shipping Full-Stack MVPs in Under 6 Hours 🎯
 *Look, the game changed. In 2025 we were still calling it “vibe coding” — type what you want, let the model spit out code, pray it runs. By late 2026 the serious people have moved on to something tighter. Call it agentic engineering if you want the fancy term.*
 
 ***The Mindset (Read This or Waste the First Hour)***
